@@ -14,7 +14,7 @@ The primary purpose for this course is to be able to complete the following 7 as
 6. [JSON](https://classroom.github.com/a/KadpYuM2){:target="_blank" rel="noopener"}
 7. [Test](https://classroom.github.com/a/n1R_8Mx7){:target="_blank" rel="noopener"}
 
-To help you complete the assignments, you will find a set of recorded lectures below that introduce you to the concepts needed. Along with the videos, you will find a link to the slides in HTML format. You can also find a PDF version of the slides [in this Github respository](https://github.com/barcelonagse-datascience/learning-python){:target="_blank" rel="noopener"}.
+To help you complete the assignments, you will find a set of recorded lectures below that introduce you to the concepts needed. Along with the videos, you will find a link to the slides in HTML format. You can also find a PDF version of the slides [in this Github respository](https://github.com/Jordi-Llorens/computing-brushup-21){:target="_blank" rel="noopener"}.
 
 
 &nbsp;
