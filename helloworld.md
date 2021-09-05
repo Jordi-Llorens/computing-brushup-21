@@ -10,4 +10,4 @@ This assignment will prepare your computing environment and introduce you to the
 
 ### Next Steps
 
-Once you've completed the above assignment, you can move on to the [Github Classroom Exercises](./classroom).
+Once you've completed the above assignment, you can move on to the [Bash Tutorial](./bash).
