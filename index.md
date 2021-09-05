@@ -5,7 +5,8 @@ The first term of your masters program will be very intense, you will learn a lo
 Towards that end, for this brush-up you are asked to complete the following:
 
 1. Complete the preparatory [Hello World Mini-Assignment](./helloworld).
-2. Complete the Python [Github Classroom Exercises](./classroom).
-3. Complete the [R tutorial](https://classroom.github.com/a/m_DZrIyQ){:target="_blank" rel="noopener"}.
+2. Complete the [Bash Tutorial](./bash) 
+3. Complete the Python [Github Classroom Exercises](./classroom).
+4. Complete the [R tutorial](https://classroom.github.com/a/m_DZrIyQ){:target="_blank" rel="noopener"}.
 
 If you have any questions, write Jordi.
