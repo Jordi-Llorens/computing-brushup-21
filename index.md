@@ -7,7 +7,7 @@ Towards that end, for this brush-up you are asked to complete the following:
 1. Complete the preparatory [Hello World Mini-Assignment](./helloworld).
 2. Complete the [Bash Tutorial](./bash) 
 3. Complete the Python [Github Classroom Exercises](./classroom).
-4. Complete the (Python) Pandas tutorials (./pandas)
+4. Complete the (Python) [Pandas tutorials](./pandas)
 5. Complete the [R tutorial](https://classroom.github.com/a/m_DZrIyQ){:target="_blank" rel="noopener"}.
 
 
