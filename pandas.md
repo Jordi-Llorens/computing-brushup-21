@@ -1,4 +1,4 @@
-{% include breadcrumbs.html current="Hello World" %}
+{% include breadcrumbs.html current="Pandas" %}
 
 
 # Pandas 
